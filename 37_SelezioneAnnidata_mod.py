@@ -11,6 +11,6 @@ if risposta=="sì":
 elif risposta == "no":
     risposta3 = input("Ti piace qualche altro sport? Rispondi sì o no: ")
     if risposta3=="sì":
-        print("Bene! Lo sport è importante per la salute.")
+        print("Molto bene! Ti terrai in forma.")
     else:
         print("Non tutti sono sportivi.")
